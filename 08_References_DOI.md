@@ -31,3 +31,20 @@ This register links to publisher records for review papers in the repository. Be
 6. For systematic reviews, log database, exact query, search date, result count, and screening decisions.
 
 Use the target journal's required citation style. The abbreviated records here are a working register, not final submission-ready references.
+
+
+## Additional publisher-record entries added in October 2026
+
+| Topic | Short title | Year | DOI |
+|---|---|---:|---|
+| Piezoelectric actuators | Review on piezoelectric actuators: materials, classifications, applications, and recent trends | 2024 | [10.1007/s11465-023-0772-0](https://doi.org/10.1007/s11465-023-0772-0) |
+| Ultrasonic motors | A Comprehensive Review of Piezoelectric Ultrasonic Motors | 2024 | [10.3390/mi15091170](https://doi.org/10.3390/mi15091170) |
+| Biomedical ultrasound | Thin-Film Piezoelectric Micromachined Ultrasound Transducers in Biomedical Applications: A Review | 2024 | [10.1109/TUFFC.2024.3390807](https://doi.org/10.1109/TUFFC.2024.3390807) |
+| Biomedical diagnosis/treatment | Role of Piezoelectricity in Disease Diagnosis and Treatment: A Review | 2024 | [10.1021/acsbiomaterials.4c01346](https://doi.org/10.1021/acsbiomaterials.4c01346) |
+| Transducers | Deployment of piezoelectric transducers for diverse technical applications: A comprehensive review | 2024 | [10.1016/j.rineng.2024.103881](https://doi.org/10.1016/j.rineng.2024.103881) |
+| Lead-free ceramic texture | Textured Lead-Free Piezoelectric Ceramics: A Review of Template Effects | 2025 | [10.3390/ma18030477](https://doi.org/10.3390/ma18030477) |
+| Lead-free ceramic sensors | A review on lead-free piezoelectric ceramic sensors for sustainable and intelligent applications | 2025 online / 2026 issue | [10.1016/j.cej.2025.172363](https://doi.org/10.1016/j.cej.2025.172363) |
+| Crystal-structure design | Advances in piezoelectric materials with diverse crystal structures: from design to applications | 2026 | [10.1007/s40843-025-4334-9](https://doi.org/10.1007/s40843-025-4334-9) |
+| Tissue engineering | Piezoelectric materials for tissue engineering and regenerative medicine | 2026 | [10.1016/j.actbio.2026.04.060](https://doi.org/10.1016/j.actbio.2026.04.060) |
+| Tissue regeneration | Recent Advances in Piezoelectric Materials for Tissue Regeneration | 2026 | [10.1002/adfm.75958](https://doi.org/10.1002/adfm.75958) |
+
