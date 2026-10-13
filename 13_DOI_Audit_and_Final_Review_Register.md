@@ -1,16 +1,37 @@
 # DOI Audit and Manuscript-Ready Review Article Register (2020–2026)
 
-**Audit date:** 13 October 2026  
+**Audit date:** 13 October 2026 (publisher-record spot-check updated)  
 **Purpose:** Improve bibliography reliability before manuscript writing.
 
-**Important:** A DOI resolving successfully proves that a DOI record exists, not that the repository's title, author list, year, article type, and application summary are all correct. Entries below are candidate records. Where the full publisher citation was not independently confirmed during this pass, metadata is explicitly marked for confirmation. Export the publisher's RIS/BibTeX before submission.
+**Important:** A DOI resolving successfully proves that a DOI record exists, not that every field in a prior bibliography is correct. This register separates entries checked against publisher or PubMed records during this pass from entries still awaiting full metadata checks. The **publisher-confirmed subset** below is the safer starting point; other entries remain provisional. Export publisher RIS/BibTeX before submission.
 
 ## Status key
 - **Candidate — verify publisher citation:** DOI/title are in the working bibliography, but the full citation must be imported from the publisher.
 - **Check carefully:** exact title/topic/article type needs confirmation.
 - Article-type labels are provisional unless the publisher record is checked.
 
-## A. Candidate review-article register
+## A. Publisher-confirmed subset (checked against publisher or PubMed records)
+
+The following records were directly matched to publisher or PubMed pages during this update. Titles, full author lists, year, journal and article type are transcribed from those records; application scope is summarized from the publisher abstract.
+
+| Full title | Authors | Journal | Year | Article type | Applications covered | Publisher DOI link | Status |
+|---|---|---|---:|---|---|---|---|
+| Piezoelectric Materials for Energy Harvesting and Sensing Applications: Roadmap for Future Smart Materials | Susmriti Das Mahapatra; Preetam Chandan Mohapatra; Adrianus Indrat Aria; Graham Christie; Yogendra Kumar Mishra; Stephan Hofmann; Vijay Kumar Thakur | Advanced Science 8(17), e2100864 | 2021 | Review | Piezoelectric materials for energy harvesting and sensing; smart materials and device directions | [Publisher DOI](https://doi.org/10.1002/advs.202100864) | Publisher/PubMed record matched |
+| A comprehensive review on the state-of-the-art of piezoelectric energy harvesting | Nurettin Sezer; Muammer Koç | Nano Energy 80, 105567 | 2021 | Review | Operating principles, structures, modes; inorganic, organic, ceramic, composite and bio-inspired materials; harvesting applications | [Publisher DOI](https://doi.org/10.1016/j.nanoen.2020.105567) | Publisher record matched |
+| Piezoelectric Energy Harvesting Technology: From Materials, Structures, to Applications | Tao Li; Pooi See Lee | Small Structures | 2022 online / 2022 record (issue details should be preserved from publisher citation) | Review | Materials, structures and energy-harvesting applications | [Publisher DOI](https://doi.org/10.1002/sstr.202100128) | Publisher record matched; first published 21 Dec 2021, confirm citation year style |
+| A Review on Piezoelectric Materials and Their Applications | Madunuri Chandra Sekhar; Eshwarappa Veena; Nagasamudram Suresh Kumar; Kadiyala Chandra Babu Naidu; Allam Mallikarjuna; Dudekula Baba Basha | Crystal Research and Technology 58(2), 2200130 | 2023 issue; version of record 27 Nov 2022 | Review | Lead-based and lead-free materials; catalysis, energy harvesting, sensors, biomedical engineering, additive manufacturing | [Publisher DOI](https://doi.org/10.1002/crat.202200130) | Publisher record matched; distinguish online date and issue year |
+| Fundamentals, advances and perspectives of piezocatalysis: A marriage of solid-state physics and catalytic chemistry | Nan Meng; Wei Liu; Ruyu Jiang; Yu Zhang; Steve Dunn; Jiyue Wu; Haixue Yan | Progress in Materials Science 138, 101161 | 2023 | Review article | Mechanisms, piezo/ferroelectric properties, environmental remediation, renewable energy conversion, biomedicine and biotechnology | [Publisher DOI](https://doi.org/10.1016/j.pmatsci.2023.101161) | Publisher record matched |
+| Flexible piezoelectric materials and strain sensors for wearable electronics and artificial intelligence applications | Yanyu Chen; Xiaohong Zhang; Chao Lu | Chemical Science 15, 16436–16466 | 2024 | Review Article | Flexible/wearable sensors, health monitoring, human–machine interaction, electronic skin/tattoos and AI-related applications | [Publisher DOI](https://doi.org/10.1039/D4SC05166A) | RSC publisher record matched |
+| Review on piezoelectric actuators: materials, classifications, applications, and recent trends | Xuyang Zhou; Shuang Wu; Xiaoxu Wang; Zhenshan Wang; Qixuan Zhu; Jinshuai Sun; Panfeng Huang; Xuewen Wang; Wei Huang; Qianbo Lu (confirm any omitted middle authors via publisher citation export) | Frontiers of Mechanical Engineering 19, article 6 | 2024 | Review Article | Actuator materials, operating principles, classification, device schemes and applications | [Publisher DOI](https://doi.org/10.1007/s11465-023-0772-0) | Publisher record matched; export citation for exact complete author list |
+| A Comprehensive Review of Piezoelectric Ultrasonic Motors: Classifications, Characterization, Fabrication, Applications, and Future Challenges | Sidra Naz; Tian-Bing Xu | Micromachines 15(9), 1170 | 2024 | Review | Ultrasonic motor classification, characterization, fabrication, applications and challenges | [Publisher DOI](https://doi.org/10.3390/mi15091170) | Publisher record matched |
+| Role of Piezoelectricity in Disease Diagnosis and Treatment: A Review | Pratishtha Tripathi; Ashutosh Kumar Dubey | ACS Biomaterials Science & Engineering 10(10), 6061–6077 | 2024 | Review | Biosensors, disease diagnosis, sonodynamic/piezocatalytic therapies, implants, tissue engineering and biomedical devices | [Publisher DOI](https://doi.org/10.1021/acsbiomaterials.4c01346) | ACS publisher record matched |
+| Piezocatalysis and piezo-assisted catalysis in environmental remediation and energy conversion | Shuaiyu Jiang; Qi Mai; Haimei Xu; Yibo Ma; Baohua Jia; Tianyi Ma | Chemical Communications 62(12), 3745–3760 | 2026 | Feature Article | Piezocatalysis, piezo-photocatalysis, ferroelectric/pyroelectric-assisted catalysis; hydrogen, CO2-to-fuel, H2O2/ROS, environmental remediation | [Publisher DOI](https://doi.org/10.1039/D5CC06489A) | RSC publisher record matched; publisher labels it Feature Article, not systematic review |
+| Low-Frequency, Renewable Mechanical Energy–Driven Piezocatalysis for Energy Generation and Environmental Remediation | Shadi Asgari; Ghodsi Mohammadi Ziarani; Alireza Badiei; Senem Akkoc | International Journal of Energy Research, article 4472745 | 2026 | Review Article | Water treatment (dyes, pharmaceuticals, microbes, heavy metals), air purification, CO2 reduction, hydrogen generation and chemical synthesis | [Publisher DOI](https://doi.org/10.1155/er/4472745) | Wiley publisher record matched; first published 27 July 2026 |
+| Recent Advances in Piezoelectric Materials for Tissue Regeneration: From Mechanisms to Applications | Yiming Li; Xingyu Hou; Jing Zhong; Ziyi Xu; Jingyi Wu; Fei Xing; Zhou Xiang | Advanced Functional Materials 36(50), e75958 | 2026 | Review | Piezoelectric scaffolds, cellular differentiation, tissue reconstruction, mechanical/perfusion/ultrasound activation and translational challenges | [Publisher DOI](https://doi.org/10.1002/adfm.75958) | Wiley publisher record matched; first published 29 May 2026 |
+
+## B. Candidate review-article register (not fully verified)
+
+The records below were present in the working bibliography but have not all been checked against full publisher metadata in this pass. Treat them as candidates, not citation-ready entries.
 
 | Candidate title | Authors | Journal | Year | Article type | Applications / scope | DOI / publisher | Audit status |
 |---|---|---|---:|---|---|---|---|
@@ -42,7 +63,7 @@
 | Low-Frequency, Renewable Mechanical Energy–Driven Piezocatalysis for Energy Generation and Environmental Remediation | Export full authors from publisher | International Journal of Energy Research | 2026 | Review (provisional) | Low-frequency mechanical excitation, remediation and energy generation | [10.1155/er/4472745](https://doi.org/10.1155/er/4472745) | Confirm DOI/article match |
 | Advances in piezoelectric energy harvesting: Materials, configurations, and power optimisation strategies | Radeef, Z. S. et al.; confirm complete list | Results in Engineering | 2025 | Review (provisional) | Materials, configurations and power optimisation | [10.1016/j.rineng.2025.107782](https://doi.org/10.1016/j.rineng.2025.107782) | Export publisher citation |
 
-## B. Records requiring special caution
+## C. Records requiring special caution
 
 Do not cite these entries until the DOI landing page and publisher citation export confirm the exact match:
 
@@ -55,7 +76,7 @@ Do not cite these entries until the DOI landing page and publisher citation expo
 | “A review on lead-free piezoelectric ceramic sensors…” | [10.1016/j.cej.2025.172363](https://doi.org/10.1016/j.cej.2025.172363) | Distinguish first-online date from issue year. |
 | Any record represented by “et al.” | — | A manuscript-ready reference needs the complete author metadata as required by the target journal. |
 
-## C. Required verification workflow
+## D. Required verification workflow
 
 1. Open each DOI link.
 2. Confirm that the landing-page title matches the candidate entry.
@@ -65,6 +86,6 @@ Do not cite these entries until the DOI landing page and publisher citation expo
 6. Mark each entry as verified, metadata corrected, not a review, topic mismatch, or unresolved.
 7. If presenting this project as a systematic review, keep the search date, exact queries, databases, result counts, deduplication and screening decisions.
 
-## D. Scope and reproducibility note
+## E. Scope and reproducibility note
 
 This is a verification register, not a claim that every candidate has passed full publisher-level validation. Missing metadata must not be invented. Entries marked “confirm” require the publisher citation export. The list is selective and is not exhaustive for 2020–2026.
