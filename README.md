@@ -22,6 +22,7 @@
 | [09_Research_Gaps_and_Future_Directions.md](09_Research_Gaps_and_Future_Directions.md) | Research questions and experimental standards |
 | [10_Search_Strategy_and_Screening.md](10_Search_Strategy_and_Screening.md) | Reproducible search and screening protocol |
 | [11_Material_Family_Comparison.md](11_Material_Family_Comparison.md) | Qualitative comparison of material families |
+| [12_Review_Article_Matrix_2020-2026.md](12_Review_Article_Matrix_2020-2026.md) | Structured matrix of selected review articles by year, application, journal, DOI and use |
 
 ## Quick scientific orientation
 Piezoelectricity is electromechanical coupling found in non-centrosymmetric crystals and in suitably processed materials. The **direct effect** converts mechanical stress into electrical displacement; the **converse effect** produces strain under an electric field. Device performance depends on material coefficients, frequency, boundary conditions, geometry, electrodes, dielectric loss, impedance matching, and power-management circuitry.
