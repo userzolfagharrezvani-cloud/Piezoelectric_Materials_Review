@@ -48,3 +48,19 @@ Curated starter list with DOI/publisher records. This is not an exhaustive syste
 
 ## Screening note
 This list is not a complete evidence map for every application or publication through 2026. A systematic review should define databases, search date, exact query, inclusion/exclusion criteria, deduplication, and screening. Publisher records should be checked before formal citation.
+
+
+## Additional specialist reviews verified during the October 2026 update
+
+13. Zhou, X. et al. “Review on piezoelectric actuators: materials, classifications, applications, and recent trends.” *Frontiers of Mechanical Engineering* 19, 6 (2024). https://doi.org/10.1007/s11465-023-0772-0  
+14. Naz, S.; Xu, T.-B. “A Comprehensive Review of Piezoelectric Ultrasonic Motors: Classifications, Characterization, Fabrication, Applications, and Future Challenges.” *Micromachines* 15(9) (2024), 1170. https://doi.org/10.3390/mi15091170  
+15. Wong, S. J. Z. et al. “Thin-Film Piezoelectric Micromachined Ultrasound Transducers in Biomedical Applications: A Review.” *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control* 71(6) (2024), 622–637. https://doi.org/10.1109/TUFFC.2024.3390807  
+16. “Role of Piezoelectricity in Disease Diagnosis and Treatment: A Review.” *ACS Biomaterials Science & Engineering* 10(10) (2024), 6061–6077. https://doi.org/10.1021/acsbiomaterials.4c01346  
+17. “Deployment of piezoelectric transducers for diverse technical applications: A comprehensive review.” *Results in Engineering* (2024). https://doi.org/10.1016/j.rineng.2024.103881  
+18. Zate, T. T. et al. “Textured Lead-Free Piezoelectric Ceramics: A Review of Template Effects.” *Materials* 18(3) (2025), 477. https://doi.org/10.3390/ma18030477  
+19. Zheng, K. et al. “A review on lead-free piezoelectric ceramic sensors for sustainable and intelligent applications.” *Chemical Engineering Journal* 528 (2026), 172363; available online 28 December 2025. https://doi.org/10.1016/j.cej.2025.172363  
+20. Yang, D. et al. “Advances in piezoelectric materials with diverse crystal structures: from design to applications.” *Science China Materials* (2026). https://doi.org/10.1007/s40843-025-4334-9  
+21. KarbalaeiMahdi, A. et al. “Piezoelectric materials for tissue engineering and regenerative medicine: From fundamental principles to clinical applications.” *Acta Biomaterialia* 217 (2026), 44–70. https://doi.org/10.1016/j.actbio.2026.04.060  
+22. “Recent Advances in Piezoelectric Materials for Tissue Regeneration: From Mechanisms to Applications.” *Advanced Functional Materials* (2026). https://doi.org/10.1002/adfm.75958
+
+For a wider cross-topic comparison, see [12_Review_Article_Matrix_2020-2026.md](12_Review_Article_Matrix_2020-2026.md). This remains a selected bibliography; confirm the complete publisher citation and article type before citing.
